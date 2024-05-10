@@ -1,4 +1,4 @@
-![image](https://github.com/nusalendra/reimbursement/assets/92620057/7a610ae1-127f-4a69-a875-7da0f3a7469d)Requirements :
+Requirements :
 1. PHP Version : > 8.1
 2. Laravel Framework Version : > 10.10
 3. NPM Version : 10.5.0
