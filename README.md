@@ -5,7 +5,7 @@ Requirements :
 4. Node Version : 20.11.0
 
 Langkah Instalasi :
-1. Clone proyek dari repository dengan perintah "git clone https://github.com/nusalendra/reimbursement-app".
+1. Clone proyek dari repository.
 2. Jalankan "composer install" untuk menginstal dependensi PHP.
 3. Gunakan "npm install" dan "npm run dev" untuk menginstal dan mengkompilasi dependensi JavaScript.
 4. Ubah nama file .env.example menjadi .env, lalu sesuaikan value database postgresql dan cloudinary seperti yang dijelaskan dalam PDF.
